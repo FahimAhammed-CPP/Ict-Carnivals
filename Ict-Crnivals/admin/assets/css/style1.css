@@ -1,0 +1,32 @@
+
+*{padding:0; margin:0;}
+body{background:#E2F2E8; padding:1%;}
+
+#header{margin-top:10px; border-radius: 3px; width: 100% ; height: 50px; background: #83A535;}
+
+#bodyleft{float:left; border-radius: 3px; width: 24%; height: 500px; background: #6D93A7; margin: 20px 10px 10px 0px; }
+#bodyleft h3{border-radius: 3px; font-size: 25px; height: 40px; line-height: 40px; color:#FFFFFF; background: #C0AB74; text-align: center; }
+#bodyleft ul{margin-top:10px; list-style-type: none;}
+#bodyleft ul li{border-radius: 3px; height: 30px; line-height: 30px;}
+#bodyleft ul li a{display: block; text-decoration: none; font-size: 20px; color:#233567; padding-left: 3%; }
+#bodyleft ul li:hover{background: #C0AB74; }
+
+
+
+
+#bodyright{ padding-bottom: 2%; float:right; border-radius: 3px; width: 74.8%; min-height: 500px; background: #545557; margin: 20px 0px 10px 0px; }
+#bodyright h3{width: 100% !important; border-bottom: 2px solid #6D2565; border-radius: 3px; font-size: 25px; height: 40px; line-height: 40px; color:#FFFFFF; background: #C0AB74; text-align: center; }
+#bodyright form table{width: 95%; margin:auto; margin-top: 10px;}
+#bodyright form table tr th{box-sizing: border-box; font-size: 20px; background: #D1E1A3; padding-left: 10px; color: #2886C4; text-align: left; height: 30px; border-top: 2px solid #59351F; border-bottom: 2px solid #59351F;}
+#bodyright form table tr td{width:5px 25px 25px 8px 8px; height: 35px; color: #fff; padding-left: 15px; min-width: 210px; }
+#bodyright form table tr td input{padding-left: 1%; width: 100%; height: 30px; border-radius: 3px; border:1px solid #fff;}
+#bodyright form table tr td select{padding-left: 1%; width: 100%; height: 30px; border-radius: 3px; border:1px solid #fff;}
+#bodyright form table tr td a{text-decoration: none; color: #883048; background: #DDF1F2; padding: 2px; border-radius: 3px; font-weight: bold;}
+#bodyright form button{margin-top:20px; width: 200px; height: 30px; color: #fff; background: #A44E2D; border: 2px solid #83A535; font-weight: bold;}
+#bodyright form button:hover{background: #1C5E43;}
+
+
+
+
+
+#add_event{margin-top: 20px; border-top: 2px solid #6D2565;}

@@ -1,0 +1,24 @@
+#cus_div{background: #0F2B41; height: 50px; width:100%; float:right;   border-radius: 5px; border-bottom: 2px solid #B4D2EC; }
+#custext{ text-shadow: 3px 3px #000000; text-align:center; color:#fff; font-size:25px; font-weight: bold; height: 10px; padding-top: 7px;}
+
+#cus_view{ padding-bottom: ; float:left; border-radius: 3px; width: 100%; min-height: 600px; background: #778899;}
+
+#cus_view{overflow: scroll;}
+#cus_view h3{border-bottom: 2px solid #A3C8DA; border-radius: 3px; font-size: 25px; height: 40px; line-height: 40px; color:#FFFFFF; background: #C0AB74; text-align: center ; }
+#cus_view form table tr th{box-sizing: border-box; font-size: 18px; text-shadow: 1px 1px #000000; background: #DDF1F2; padding-left: 3px; color: #2886C4; text-align: center; height: 30px; border-top: 2px solid #A3C8DA; border-bottom: 2px solid #A3C8DA; }
+#cus_view form table tr td a{text-decoration: none; color: #883048; background: #DDF1F2; padding: 2px; border-radius: 3px; font-weight: bold;}
+#cus_view form table tr td {text-decoration: none !important; min-width: 210px; width: 50%; height: 35px; color: #000000; font-weight: bold; text-align: center; }
+#cus_view form table tr td img{ width: 150px; height: 150px; border:5px solid #A3C8DA;}
+
+
+
+#navbar{overflow: hidden; width: 100%; height: 50px; background: #BDB4AB;}
+#navbar ul{list-style-type: none; padding-left: 2%;}
+#navbar ul li{padding: 1%; float: left;}
+#navbar ul li a{text-decoration: none; font-size: 18px; color:#fff;}
+#navbar ul li:hover{background: #889DB4; border-top: 2px solid #fff;}
+
+#navbar li ul{display: none !important;}
+#navbar li:hover ul{box-shadow: 5px 5px 5px #2e2e2e; padding-left: 0%; background: #BDB4AB; margin-top: 8px; margin-left: 0px; display: block !important; width: 170px; z-index: 999; position: absolute;}
+#navbar li ul li{float: none; height: 35px; padding-left: 5%; line-height: 35px;}
+#navbar li ul li a{display: block;}
